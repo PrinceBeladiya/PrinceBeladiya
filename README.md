@@ -7,8 +7,11 @@
 <p align="left"> <a href="https://twitter.com/PrinceBeladiya7" target="blank"><img src="https://img.shields.io/twitter/follow/PrinceBeladiya7?logo=twitter&style=for-the-badge" alt="PrinceBeladiya7" /></a> </p>
 
 - 🔭 I’m currently working on **Blockchain, React, Node**
+
 - 🌱 I’m currently learning **Blockchain**
+
 - 💬 Ask me about **Blockchain Development**
+
 - 📫 How to reach me: princebeladiya007@gmail.com
 
 <hr>
