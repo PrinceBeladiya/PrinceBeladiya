@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **Blockchain Development**
-
 - 📫 How to reach me: princebeladiya007@gmail.com
 
 <hr>
